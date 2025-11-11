@@ -2,8 +2,8 @@
 <h3 align="center">Information Technology Student | Polytechnic University of the Philippines - Sto. Tomas </h3>
 
 <p align="center">
-  Building systems that solve real community needs.  
   Focused on web development, backend logic, database design, and UI structure.
+  I am continuously building my skills, including configuring and troubleshooting network environments.
 </p>
 
 ---
