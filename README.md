@@ -44,18 +44,9 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=<yourusername>&show_icons=true&hide_border=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<yourusername>&layout=compact&hide_border=true" />
-</p>
-
----
-
 ### 📫 Contact
-- **Email:** <your email>  
-- **Facebook / LinkedIn:** <your link here>  
+- **Email:** <calangiakhicia@gmail.com>  
+- **Facebook:** <https://www.facebook.com/calangi.aki>  
 
 ---
 
