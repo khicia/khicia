@@ -30,17 +30,8 @@
 
 **Database & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma,netbeans,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma,javanetbeans,vscode" />
 </p>
-
----
-
-### 🚀 Featured Work
-| Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| University / Org Platform | User accounts, directory, dynamic content management | PHP, MySQL, Bootstrap | `<repo-link>` |
-| POS + Login System | Basic grocery POS with login & product DB | Java (NetBeans), MySQL | `<repo-link>` |
-| Music Shop E-Commerce | Product catalog + orders + cart logic | Flask, SQLite | `<repo-link>` |
 
 ---
 
