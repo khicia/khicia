@@ -28,9 +28,9 @@
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
 </p>
 
-**Database & Tools**
+**Databases & Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma,javanetbeans,vscode" />
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma,vscode" />
 </p>
 
 ---
