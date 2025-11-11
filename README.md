@@ -19,32 +19,29 @@
 ### 🧭 Tech Stack
 
 **Languages**
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,php" />
-</p>
-
-**Web & Frameworks**
-<p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,flask" />
-</p>
-
-**Databases & Tools**
-<p>
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,figma,vscode" />
 </p>
 
 ---
 
-### 📫 Contact
-- **Email:** <calangiakhicia@gmail.com>  
-- **Facebook:** <https://www.facebook.com/calangi.aki>  
-
+### 📫 Connect with me
+<p align="center">
+  <a href="mailto:calangiakhicia@gmail.com"><img src="https://img.shields.io/badge/Email-calangiakhicia@gmail.com-pink?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.facebook.com/calangi.aki"><img src="https://img.shields.io/badge/Facebook-Akhicia-blue?style=for-the-badge&logo=facebook" /></a>
+  <a href="https://www.linkedin.com/in/akhicia/"><img src="https://img.shields.io/badge/LinkedIn-Akhicia-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/akhicia"><img src="https://img.shields.io/badge/GitHub-Akhicia-black?style=for-the-badge&logo=github" /></a>
+</p>
 ---
 
 ### 🌱 Currently Exploring
-- **REST APIs**
-- **React for Front-End**
-- **Better system documentation & UI flow**
+- ⚡ **Network Automation & Advanced Routing** – automating tasks, configuring complex networks  
+- 🤖 **IoT & Hardware Integration** – connecting devices, building smart setups  
+- 🔗 **REST APIs & Workflow Automation** – streamlining processes, improving efficiency  
+- 🎨 **React for Dynamic Front-End** – building interactive and responsive interfaces  
+- 📚 **Optimized System Documentation & UI/UX Flow** – making systems easier to understand and use
 
 ---
 
