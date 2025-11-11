@@ -9,7 +9,7 @@
 ---
 
 ### 🔥 About Me
-- 🎓 Bachelor of Science in **Information Technology**, PUP Sto. Tomas  
+- 🎓 Bachelor of Science in **Information Technology**, Polytechnic University of the Philippines - Sto. Tomas  
 - ⚙️ Currently developing **university platforms**, **membership systems**  
 - 💡 I enjoy turning concepts into functional, working systems  
 - 🎯 Goal: Become proficient in **Full-Stack Web Development**
@@ -57,4 +57,4 @@
 
 ---
 
-<p align="center">“Small steps every day turn into big progress.”</p>
+<p align="center">“Take the risk or lose the chance, your call.”</p>
