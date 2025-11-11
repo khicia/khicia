@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm <Akhicia Mae> 👋</h1>
-<h3 align="center">Information Technology Student | PUP Sto. Tomas</h3>
+<h1 align="center">Hi, I'm < Akhicia Mae> 👋</h1>
+<h3 align="center">Information Technology Student | Polytechnic University of the Philippines - Sto. Tomas </h3>
 
 <p align="center">
   Building systems that solve real community needs.  
