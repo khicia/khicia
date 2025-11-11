@@ -34,6 +34,7 @@
   <a href="https://www.linkedin.com/in/akhicia/"><img src="https://img.shields.io/badge/LinkedIn-Akhicia-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://github.com/akhicia"><img src="https://img.shields.io/badge/GitHub-Akhicia-black?style=for-the-badge&logo=github" /></a>
 </p>
+
 ---
 
 ### 🌱 Currently Exploring
