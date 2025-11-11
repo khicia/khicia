@@ -12,7 +12,7 @@
 - 🎓 Bachelor of Science in **Information Technology**, Polytechnic University of the Philippines - Sto. Tomas  
 - ⚙️ Currently developing **university platforms**, **membership systems**  
 - 💡 I enjoy turning concepts into functional, working systems  
-- 🎯 Goal: Become proficient in **Full-Stack Web Development**
+- 🎯 Become proficient in **Network and Systems Engineer**
 
 ---
 
